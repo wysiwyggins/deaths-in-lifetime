@@ -24,7 +24,7 @@ def parse_gedcom(file_path):
             parsed_data.append(indi_data)
     return parsed_data
 
-from datetime import datetime
+from datetime import datetime 
 
 def get_input_details():
     """Get user input details."""
