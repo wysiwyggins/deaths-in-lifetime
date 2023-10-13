@@ -33,9 +33,10 @@ Python (preferably version 3.7 or higher).
 - The script primarily focuses on extracting and analyzing the `NAME`, `BIRT`, and `DEAT` tags from the GEDCOM file.
 - The tool assumes the GEDCOM file is correctly structured and may not handle corrupt or non-standard files gracefully.
 
-Contributing:
+## Contributing
 
 This script is provided as an educational example for working with the sometimes hairy GEDCOM format. GEDCOM is typically produced and exported from big Genealogy websites like Ancestry.com, and is often very dirty. Some open source cleaning tools are available, such as [Gramps](https://gramps-project.org). Fork as desired.
 
-License:
-GEDCOM is a contentious technology, developed by the Church of Latter Day Saints in the 1980's, and the material of value in the recent purchase of Ancestry.com by the world's largest Private Equity firm Blackstone, this software is provided under the [Anti-Capitalist Software License](https://anticapitalist.software) to prohibit its use for any number of unsavory ventures.
+## License
+
+GEDCOM is a contentious technology, developed by the Church of Latter Day Saints in the 1980's and the format of the material-of-value in the recent purchase of Ancestry.com by the world's largest private equity firm Blackstone, this software is provided under the [Anti-Capitalist Software License](https://anticapitalist.software) to prohibit its use for any number of unsavory ventures.
